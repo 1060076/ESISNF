@@ -1,4 +1,4 @@
-package java.examples.matrix;
+package examples.matrix;
 
 import org.junit.jupiter.api.Test;
 

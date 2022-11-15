@@ -1,4 +1,4 @@
-package java.graph.matrix;
+package graph.matrix;
 
 
 import ESINFExemple.graph.Algorithms;

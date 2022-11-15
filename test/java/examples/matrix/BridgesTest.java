@@ -1,5 +1,5 @@
 
-package java.examples.matrix;
+package examples.matrix;
 
 
 import ESINFExemple.examples.matrix.Bridges;

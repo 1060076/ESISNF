@@ -1,4 +1,4 @@
-package java.graph.map;
+package graph.map;
 
 
 import ESINFExemple.graph.Algorithms;

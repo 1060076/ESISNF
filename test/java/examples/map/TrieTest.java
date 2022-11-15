@@ -1,4 +1,4 @@
-package java.examples.map;
+package examples.map;
 
 
 import ESINFExemple.examples.map.Trie;
