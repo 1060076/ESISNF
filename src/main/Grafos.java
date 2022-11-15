@@ -1,7 +1,3 @@
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
 //Using Adjacency Matrix
 
 class Grafos {
