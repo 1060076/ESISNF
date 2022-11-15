@@ -1,4 +1,4 @@
-//Using Adjacency Matrix
+package Dijkstra;//Using Adjacency Matrix
 
 class Grafos {
 

@@ -1,3 +1,5 @@
+package Dijkstra;
+
 import java.util.*;
 
 //Using A Priority Queue
