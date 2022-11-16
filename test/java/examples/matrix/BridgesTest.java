@@ -1,7 +1,6 @@
 
 package examples.matrix;
 
-
 import ESINFExemple.examples.matrix.Bridges;
 import ESINFExemple.graph.Edge;
 import ESINFExemple.graph.Graph;

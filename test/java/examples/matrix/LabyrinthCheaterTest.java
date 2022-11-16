@@ -1,17 +1,15 @@
 package examples.matrix;
 
+import ESINFExemple.examples.matrix.LabyrinthCheater;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
 class LabyrinthCheaterTest {
 
-    final examples.matrix.LabyrinthCheater instance = new examples.matrix.LabyrinthCheater();
+    final LabyrinthCheater instance = new LabyrinthCheater();
 
     public LabyrinthCheaterTest() {
         for (String s : Arrays.asList("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T"))
